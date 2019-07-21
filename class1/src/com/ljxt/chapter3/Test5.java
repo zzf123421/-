@@ -3,7 +3,7 @@ package com.ljxt.chapter3;
 import java.util.Scanner;
 
 /**
- * @ClassName: Test5
+ * @ClassName: Test5ShowWeekday
  * @Description: TODO
  * @Author: 飞猫
  * @Group: 初心

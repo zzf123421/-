@@ -3,7 +3,7 @@ package com.ljxt.chapter3;
 import java.util.Scanner;
 
 /**
- * @ClassName: Test3
+ * @ClassName: Test3HowManyNine
  * @Description: TODO
  * @Author: 飞猫
  * @Group: 初心

@@ -1,7 +1,7 @@
 package com.ljxt.chapter3;
 
 /**
- * @ClassName: Test4
+ * @ClassName: Test4FindMaxAndMin
  * @Description: TODO
  * @Author: 飞猫
  * @Group: 初心
